@@ -1,6 +1,6 @@
 # Pre-Lab
 
-2. [Pre-Lab 2]
+2. [Pre-Lab 2](https://github.com/ziggydale45/Lab-02/blob/master/Pre-Lab-02.md)
 
 # Labs
 
