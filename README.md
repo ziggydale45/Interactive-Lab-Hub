@@ -17,4 +17,5 @@ Completed Labs for Jesse Wayne
 3. [Lab 3](https://github.com/ziggydale45/IDD-Fa19-Lab3/blob/master/README.md)
 4. [Lab 4](https://github.com/ziggydale45/IDD-Fa19-Lab4/blob/master/README.md)
 5. [Lab 5](https://github.com/ziggydale45/Lab-02/blob/master/Lab-05.md)
+6. [Lab 6](https://github.com/ziggydale45/IDD-Fa19-Lab6/blob/master/README.md)
 
