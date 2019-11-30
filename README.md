@@ -22,3 +22,7 @@ Completed Labs for Jesse Wayne
 6. [Lab 6](https://github.com/ziggydale45/IDD-Fa19-Lab6/blob/master/README.md)
 7. [Lab 7](https://github.com/ziggydale45/IDD-Fa19-Lab7/blob/master/README.md)
 
+# Final Project
+
+[Boxes that turn round](https://github.com/ziggydale45/final_project/blob/master/README.md)
+
